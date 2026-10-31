@@ -1,0 +1,6 @@
+{
+  "name": "SEVA – Sustainable Ecology & Rural Advancement",
+  "description": "Official Grassroots Digital Empowerment Platform & Management System for Sustainable Ecology & Rural Advancement (SEVA).",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

@@ -1,0 +1,1218 @@
+# MASTER PROJECT PROMPT
+# SEVA – Sustainable Ecology & Rural Advancement
+## Official Website + Grassroots Digital Empowerment Platform + Admin Management System
+
+Act as a Senior Full-Stack Developer, UI/UX Designer, Software Architect, Database Architect and Digital Transformation Consultant.
+
+I want you to design and develop a complete, modern, professional, visually attractive, responsive and fully functional website for:
+
+**Organisation Name:** Sustainable Ecology & Rural Advancement (SEVA)
+
+**Website:** https://www.sevavillage.org
+
+**Email:** seva.ecology@gmail.com
+
+**Contact:** +91 8999469974
+
+**Address:** 31 B, Jalka, Ralegaon, District Yavatmal, Maharashtra – 445402, India.
+
+This must be a complete working web application, not just a static landing page or UI prototype.
+
+Use:
+- Google AI Studio for development assistance.
+- React.js with TypeScript for the frontend.
+- Tailwind CSS for styling.
+- Supabase for PostgreSQL database, authentication, file storage and backend services.
+- Supabase Edge Functions for secure server-side operations.
+- Email integration through a transactional email provider such as Resend.
+- Lucide icons for interface elements.
+
+The application must be scalable, secure, mobile-friendly, SEO-friendly and easy for a non-technical administrator to manage.
+
+---
+
+# PART 1: ORGANISATION IDENTITY AND WEBSITE PURPOSE
+
+## 1.1 About SEVA
+
+SEVA stands for Sustainable Ecology & Rural Advancement.
+
+SEVA works towards strengthening grassroots organisations, rural communities and development institutions by improving their organisational capacity, digital capabilities and operational effectiveness.
+
+The organisation believes that grassroots organisations are essential to social transformation, but many of them lack access to appropriate technology, digital infrastructure, data management systems and technical expertise.
+
+SEVA aims to bridge this digital gap by providing practical, need-based technology solutions and capacity-building support.
+
+The website must communicate that SEVA is a development-oriented organisation working to make grassroots institutions stronger, more efficient, transparent, visible and sustainable.
+
+## 1.2 Core Vision
+
+"Empowering Grassroots Organisations Through Technology, Knowledge and Digital Transformation."
+
+## 1.3 Mission
+
+To strengthen grassroots and community-based organisations by providing accessible, affordable and need-based digital solutions, technology support, institutional capacity building and data management systems.
+
+## 1.4 Website Positioning
+
+IMPORTANT:
+
+Do not make this website look like a commercial IT company, software development agency or a website selling technology services.
+
+Position SEVA as a development organisation that understands the challenges of NGOs, rural institutions and grassroots development workers.
+
+The primary focus must be:
+
+- Strengthening grassroots organisations.
+- Making development organisations digitally capable.
+- Reducing manual administrative work.
+- Improving data quality and management.
+- Improving project monitoring and reporting.
+- Strengthening institutional transparency and accountability.
+- Improving organisational visibility.
+- Helping organisations communicate their impact effectively.
+- Connecting grassroots organisations with opportunities and potential supporters.
+
+The Technology Support Programme should be presented as one of SEVA's key initiatives, not as the entire identity of the organisation.
+
+---
+
+# PART 2: WEBSITE DESIGN AND VISUAL IDENTITY
+
+Create a premium, modern, meaningful and professional NGO development website.
+
+## Design inspiration
+
+Use a visual direction inspired by:
+- International development organisations.
+- Social impact foundations.
+- Rural development institutions.
+- Digital empowerment initiatives.
+- Professional nonprofit websites.
+
+## Colour palette
+
+Primary Green: #0B6643
+
+Dark Green: #064E36
+
+Secondary Green: #15803D
+
+Accent Orange: #D97706
+
+Dark Text: #172B24
+
+Background: #F7FAF8
+
+White: #FFFFFF
+
+Use green to represent sustainability, development and growth.
+
+Use orange for important calls to action and highlights.
+
+## Visual style
+
+- Clean and premium layout.
+- Large meaningful hero section.
+- Professional typography.
+- Beautiful illustrations and authentic rural development photographs.
+- Use photographs of grassroots NGO workers, women community leaders, rural development activities, laptops, field data collection, community meetings and digital training.
+- Modern cards with subtle shadows.
+- Rounded corners.
+- Attractive statistics sections.
+- Smooth but lightweight animations.
+- Responsive navigation.
+- Accessible buttons and forms.
+- Consistent spacing and typography.
+
+Avoid excessive gradients, unnecessary animations, overcrowded layouts and generic corporate stock imagery.
+
+The website should look trustworthy, human-centred and development-focused.
+
+---
+
+# PART 3: WEBSITE STRUCTURE AND PUBLIC PAGES
+
+Create the following pages with a professional navigation menu.
+
+1. Home
+2. About SEVA
+3. Our Approach
+4. Why Digital Empowerment?
+5. Technology Support Programme
+6. Our Impact
+7. Resources / Knowledge Centre
+8. Contact Us
+9. Apply for Technology Support
+
+Add a prominent but tasteful "Technology Support Programme" button in the main navigation.
+
+## PAGE 1: HOME PAGE
+
+### Hero Section
+
+Main heading:
+
+"Strengthening Grassroots Organisations Through Digital Transformation"
+
+Subheading:
+
+"Technology should not be a barrier to development. SEVA works with grassroots organisations to simplify their systems, strengthen their capacities, improve data management and amplify their social impact."
+
+CTA buttons:
+
+- Explore Our Work
+- Discover Technology Support
+
+Use a meaningful image showing a grassroots development worker using digital technology in a rural community.
+
+### Introduction Section
+
+Heading:
+
+"Strong Communities Need Strong Organisations"
+
+Content:
+
+Thousands of grassroots organisations across India are working tirelessly to improve lives, strengthen communities and address critical development challenges.
+
+However, many organisations continue to work with limited digital infrastructure, manual records and fragmented information systems.
+
+Their teams spend significant time managing paperwork, compiling reports and maintaining data instead of focusing on community development.
+
+SEVA works to address these challenges through practical technology solutions, institutional strengthening and digital capacity building.
+
+### Our Focus Areas
+
+Create attractive visual cards for:
+
+1. Digital Empowerment
+2. Technology Solutions
+3. Institutional Capacity Building
+4. Data Management and MIS
+5. Knowledge and Documentation
+6. Social Impact and Visibility
+
+### Digital Transformation Section
+
+Heading:
+
+"From Manual Processes to Smarter Organisations"
+
+Explain how technology can transform the everyday functioning of grassroots organisations.
+
+Show a visual comparison:
+
+BEFORE DIGITAL TRANSFORMATION:
+- Paper-based registers.
+- Manual beneficiary records.
+- Multiple Excel sheets.
+- Repetitive data entry.
+- Time-consuming reporting.
+- Limited project monitoring.
+- Difficulty tracking field activities.
+- Limited organisational visibility.
+
+AFTER DIGITAL TRANSFORMATION:
+- Centralised digital records.
+- Organised beneficiary databases.
+- Automated dashboards.
+- Simplified data collection.
+- Faster reporting.
+- Real-time project monitoring.
+- Improved decision-making.
+- Better communication and visibility.
+
+Use a professional before-and-after visual layout.
+
+### Our Impact
+
+Create a section highlighting SEVA's work over the past two years in supporting the digital and institutional capacity of grassroots organisations across India.
+
+Use the statement:
+
+"Over the past two years, SEVA has been working with grassroots organisations to understand their challenges, strengthen their systems and make technology more accessible and practical for their everyday development work."
+
+IMPORTANT:
+Do not invent numbers of NGOs, beneficiaries, projects or achievements. Create editable impact counters that the administrator can update after verifying the actual data.
+
+### Closing CTA
+
+"Technology should empower development, not complicate it."
+
+"Let's make grassroots organisations stronger, smarter and more effective."
+
+---
+
+# PART 4: WHY GRASSROOTS ORGANISATIONS NEED DIGITAL EMPOWERMENT
+
+Create a detailed and visually engaging page explaining the problems faced by grassroots organisations that lack digital systems.
+
+Page title:
+
+"The Hidden Digital Challenges of Grassroots Organisations"
+
+Explain the following challenges in detail.
+
+## 4.1 Excessive Dependence on Manual Work
+
+Many grassroots organisations still maintain registers, paper files and physical records.
+
+Problems:
+- Time-consuming data entry.
+- Difficulty finding old records.
+- Duplicate information.
+- Risk of losing important documents.
+- Repetitive administrative work.
+- Delays in preparing project reports.
+
+Explain how digital systems can reduce these problems.
+
+## 4.2 Weak Data Management Systems
+
+Many organisations collect information from villages and communities but lack a centralised system to manage it.
+
+Problems:
+- Data scattered across multiple Excel sheets.
+- No standardised data collection process.
+- Difficulties tracking beneficiaries.
+- Inconsistent information.
+- Limited ability to analyse programme performance.
+
+Solutions:
+Centralised databases, digital forms, MIS platforms and automated dashboards.
+
+## 4.3 Difficulties in Monitoring Projects
+
+Field teams work across multiple villages and geographical locations.
+
+Problems:
+- Delays in collecting field information.
+- Difficulty tracking activities.
+- Limited visibility into project progress.
+- Difficulties comparing planned and actual achievements.
+- Challenges in identifying implementation gaps.
+
+Solutions:
+Mobile applications, digital monitoring tools, GPS-enabled data collection where appropriate and project dashboards.
+
+## 4.4 Time-Consuming Reporting and Documentation
+
+NGOs regularly prepare reports for donors, CSR partners, government departments and other stakeholders.
+
+Problems:
+- Manual report preparation.
+- Repeated compilation of information.
+- Difficulty maintaining supporting documents.
+- Lack of standard reporting formats.
+- Limited visual representation of results.
+
+Solutions:
+Automated reports, structured documentation systems, data visualisation and standard reporting templates.
+
+## 4.5 Limited Organisational Visibility
+
+Many excellent grassroots organisations are doing meaningful work but have limited online presence.
+
+Problems:
+- No professional website.
+- Limited social media presence.
+- Inability to showcase achievements.
+- Difficulty sharing success stories.
+- Limited access to potential donors and CSR organisations.
+- Difficulty building credibility among stakeholders.
+
+Solutions:
+Professional websites, digital storytelling, social media training and online organisational profiles.
+
+## 4.6 Limited Access to Donors and Opportunities
+
+Many smaller organisations struggle to communicate their work effectively to external stakeholders.
+
+Explain that a strong digital presence, organised documentation, credible data and transparent reporting can improve their ability to present their work and engage with potential donors.
+
+Do not promise funding or guaranteed donor connections.
+
+## 4.7 Limited Technical Knowledge
+
+Many organisations do not have dedicated IT staff.
+
+Problems:
+- Difficulty choosing appropriate software.
+- Limited knowledge of digital tools.
+- Dependence on external technical support.
+- Difficulty maintaining digital systems.
+- Concerns about data security.
+
+Solutions:
+Practical training, affordable tools, ongoing technical assistance and capacity building.
+
+## 4.8 Staff Time and Productivity
+
+Explain that field staff and programme teams should spend more time working with communities instead of performing repetitive administrative tasks.
+
+Present the central message:
+
+"Less paperwork. Better data. Stronger institutions. Greater social impact."
+
+---
+
+# PART 5: TECHNOLOGY SUPPORT PROGRAMME
+
+Create a dedicated, detailed programme page.
+
+Programme title:
+
+"Technology Support Programme for Grassroots Organisations"
+
+Tagline:
+
+"Making Technology Accessible, Practical and Meaningful for Social Impact."
+
+## Programme Overview
+
+SEVA implements a technology support initiative to strengthen the digital capabilities of grassroots NGOs, trusts, societies and community-based organisations.
+
+The programme identifies the actual technology-related challenges faced by organisations and provides need-based digital solutions, technical assistance and capacity-building support.
+
+The programme focuses on making organisations more efficient, organised, transparent and digitally capable.
+
+## Support Areas
+
+Display the following six services with professional icons and detailed descriptions.
+
+### 1. Website Development and Support
+
+- Professional organisational website development.
+- Website redesign and maintenance.
+- Organisational profile and programme presentation.
+- Success stories and impact showcase.
+- Website content management.
+- Online visibility improvement.
+
+### 2. MIS and Digital Data Management
+
+- Organisation-specific MIS development.
+- Beneficiary databases.
+- Project monitoring systems.
+- Digital data collection forms.
+- Automated dashboards.
+- Data analysis and reporting.
+
+### 3. Mobile or Web-Based Application Development
+
+- Custom mobile applications.
+- Web-based data collection platforms.
+- Field monitoring applications.
+- Beneficiary registration systems.
+- Project tracking tools.
+- Organisation-specific digital solutions.
+
+### 4. Social Media and Digital Communication Training
+
+- Social media strategy.
+- Facebook and Instagram management.
+- LinkedIn organisational presence.
+- Digital storytelling.
+- Content creation.
+- Photography and documentation.
+- Online communication skills.
+
+### 5. Digital Capacity Building and Technical Support
+
+- Staff digital literacy training.
+- Google Workspace orientation.
+- Digital tools training.
+- Software usage guidance.
+- Technical troubleshooting.
+- Ongoing technical assistance.
+
+### 6. Data Management, Documentation and Reporting Systems
+
+- Digital documentation systems.
+- Standardised reporting formats.
+- Programme activity databases.
+- Automated reporting.
+- Data visualisation.
+- Impact documentation.
+
+Also include:
+
+"Other Technology-Related Support"
+
+SEVA may explore additional technology solutions based on the specific requirements, organisational context and feasibility of the proposed intervention.
+
+## Programme Duration
+
+The programme generally runs for 3 to 6 months, depending on the organisation's requirements, project scope and implementation plan.
+
+## Cost-Sharing Model
+
+IMPORTANT: This programme is not entirely free.
+
+Display a transparent section:
+
+"Shared Contribution, Shared Responsibility"
+
+SEVA follows a cost-sharing approach to encourage organisational ownership and long-term sustainability.
+
+Under this programme:
+
+- SEVA supports 70% of the approved programme cost.
+- The participating organisation contributes 30% of the approved programme cost.
+- The final contribution depends on the scope, requirements and mutually agreed implementation plan.
+- The contribution amount and payment schedule are communicated before implementation.
+- Participation is confirmed only after approval and agreement on the scope and cost-sharing arrangement.
+
+Do not display any invented fixed programme fee.
+
+## Selection Process
+
+Show the following steps visually:
+
+1. Online Application
+2. Application Review
+3. Organisational Assessment
+4. Priority and Feasibility Evaluation
+5. Discussion / Online Meeting
+6. Selection and Approval
+7. Scope and Cost-Sharing Agreement
+8. Programme Implementation
+9. Training and Handover
+10. Review and Follow-up
+
+Add a CTA:
+
+"Interested in Strengthening Your Organisation's Digital Capacity?"
+
+Button: Submit an Application
+
+---
+
+# PART 6: OUR IMPACT AND ORGANISATIONAL EXPERIENCE
+
+Create a professional impact page.
+
+Heading:
+
+"Building Stronger Grassroots Institutions Through Technology"
+
+Explain that during the past two years SEVA has worked towards understanding the operational challenges of grassroots organisations and strengthening their institutional and digital capacities.
+
+Show the types of improvements that technology support can create:
+
+- Improved organisational systems.
+- Reduced manual administrative work.
+- Better data organisation.
+- Improved monitoring and reporting.
+- Increased staff confidence in digital tools.
+- Better documentation of community-level work.
+- Improved organisational communication.
+- Stronger digital presence.
+
+Create case study templates with these fields:
+
+- Organisation Name.
+- State and District.
+- Organisation Background.
+- Challenge Before Support.
+- Technology Support Provided.
+- Implementation Process.
+- Results and Improvements.
+- Photographs.
+- Testimonial.
+- Date.
+
+Allow the administrator to add and publish verified case studies.
+
+Do not create fake testimonials, organisation names, case studies or quantified impact claims.
+
+Use clearly marked sample content only for development previews.
+
+---
+
+# PART 7: APPLICATION FORM FOR ORGANISATIONS
+
+Create a professional multi-step application form.
+
+Page heading:
+
+"Apply for SEVA's Technology Support Programme"
+
+Description:
+
+"Tell us about your organisation, your current systems and the technology-related challenges you are facing. Our team will review your application and assess how SEVA can support your organisation."
+
+The form must collect ALL the following 32 fields.
+
+Do not omit or merge any field.
+
+## SECTION A: ORGANISATIONAL INFORMATION
+
+1. Name of Organization
+2. Type of Organization
+3. Year of Establishment
+4. Registration Number
+5. State
+6. District
+7. Organisation Address
+8. Organization Website (If available, please provide the website URL.)
+9. Organisation Email ID
+
+## SECTION B: CONTACT INFORMATION
+
+10. Contact Person Name
+11. Designation
+12. Contact Number
+
+## SECTION C: ORGANISATIONAL PROFILE
+
+13. Briefly describe your organization
+14. Key Areas of Work
+15. Number of Villages/Communities Covered
+16. Geographical Area of Operation
+17. Approximate Number of Beneficiaries Reached Annually
+18. Who are your primary communities/beneficiaries?
+
+## SECTION D: EXISTING DIGITAL INFRASTRUCTURE
+
+19. Does your organisation currently have a website?
+20. Does your organisation currently use any MIS/Data Management System?
+21. What digital tools does your organisation currently use?
+
+## SECTION E: TECHNOLOGY CHALLENGES AND SUPPORT REQUIREMENTS
+
+22. What are the major technology challenges faced by your organisation?
+23. What type of technology support are you seeking?
+24. Please describe the technology solution/support you are looking for.
+25. What is the main problem you want to solve through technology?
+26. Who will use the proposed technology/system?
+27. Estimated number of users
+
+## SECTION F: PREVIOUS EXPERIENCE
+
+28. Has your organisation previously implemented any digital/MIS/technology project?
+29. If yes, please describe the technology/digital system implemented.
+
+## SECTION G: PRIORITY AND TIMELINE
+
+30. How urgent is your technology requirement?
+31. Preferred implementation timeline
+32. What should be the FIRST priority for technology support?
+
+## Form Behaviour
+
+Use a multi-step form with a progress indicator.
+
+Step 1: Organisation Details.
+
+Step 2: Contact and Organisational Profile.
+
+Step 3: Existing Digital Infrastructure.
+
+Step 4: Technology Challenges and Requirements.
+
+Step 5: Previous Experience and Timeline.
+
+Step 6: Review and Submit.
+
+Requirements:
+
+- Appropriate input types.
+- Dropdowns for organisation type, state and district.
+- Multi-select checkboxes for areas of work and support requirements.
+- Radio buttons for yes/no questions.
+- Textareas for detailed descriptions.
+- Conditional questions based on previous answers.
+- Indian mobile number validation.
+- Email validation.
+- Website URL validation.
+- Year validation.
+- Required-field validation.
+- Clear error messages.
+- Save progress where technically feasible.
+- Review all answers before final submission.
+- Responsive design for mobile devices.
+
+Allow supporting documents to be uploaded optionally, such as:
+- Organisation registration certificate.
+- Organisation profile.
+- Existing project reports.
+- Sample MIS or data formats.
+- Other relevant documents.
+
+Store uploaded files securely in Supabase Storage.
+
+On successful submission:
+
+- Generate a unique application ID.
+- Save all information to Supabase.
+- Display a confirmation page.
+- Send an acknowledgement email to the applicant.
+- Notify the SEVA administrator by email.
+- Display the application ID to the applicant.
+
+Confirmation message:
+
+"Thank you for submitting your application to SEVA's Technology Support Programme. Your application has been successfully received. Our team will review the information and contact you regarding the next steps."
+
+Clearly state that submission does not guarantee selection.
+
+---
+
+# PART 8: ADMIN DASHBOARD – MOST IMPORTANT MODULE
+
+Develop a secure, professional and fully functional Admin Dashboard.
+
+Only authorised SEVA administrators should be able to access this dashboard.
+
+Use Supabase Authentication.
+
+Create role-based access control for:
+- Super Admin.
+- Programme Administrator.
+- Reviewer.
+
+Never allow public users to access the admin dashboard or application records.
+
+## 8.1 Dashboard Overview
+
+Display summary cards:
+
+- Total Applications Received.
+- New Applications.
+- Under Review.
+- Shortlisted.
+- Meetings Scheduled.
+- Approved Applications.
+- Rejected Applications.
+- On Hold.
+- Implementation Ongoing.
+- Completed Programmes.
+
+Add charts:
+
+- Applications by State.
+- Applications by Organisation Type.
+- Applications by Support Requirement.
+- Applications by Priority.
+- Application Status Distribution.
+- Monthly Application Trends.
+
+Provide date filters and search.
+
+## 8.2 Application Management
+
+Create a comprehensive application listing table.
+
+Columns:
+
+- Application ID.
+- Organisation Name.
+- State.
+- District.
+- Contact Person.
+- Email.
+- Phone.
+- Support Required.
+- Priority.
+- Submission Date.
+- Application Status.
+- Assigned Reviewer.
+- Action.
+
+Features:
+
+- Global search.
+- Filters by status.
+- Filters by state and district.
+- Filters by support type.
+- Filters by urgency.
+- Sort by submission date.
+- Pagination.
+- Export to Excel/CSV.
+- View full application.
+- Download attachments.
+
+## 8.3 Individual Application Review
+
+When an administrator clicks an application, open a detailed profile page.
+
+Show all 32 submitted fields in a structured layout.
+
+Include an internal review panel with:
+
+- Internal Review Notes.
+- Assessment Summary.
+- Technical Feasibility.
+- Organisational Readiness.
+- Expected Impact.
+- Estimated Implementation Complexity.
+- Estimated Programme Cost.
+- Organisation's 30% Contribution Estimate.
+- Reviewer Name.
+- Review Date.
+
+These fields must be internal and must not be visible to the applicant.
+
+## 8.4 Priority Assessment System
+
+Allow administrators to assign:
+
+- High Priority.
+- Medium Priority.
+- Low Priority.
+
+Also allow an internal numerical assessment score from 0 to 100.
+
+Suggested evaluation criteria:
+
+- Relevance of the proposed technology requirement.
+- Potential impact on grassroots work.
+- Number of communities or beneficiaries reached.
+- Urgency of the requirement.
+- Organisational readiness.
+- Technical feasibility.
+- Sustainability and ownership.
+
+Allow the administrator to edit assessment weights.
+
+Automatically calculate a suggested score based on the criteria.
+
+The final selection decision must always remain with the authorised administrator.
+
+## 8.5 Application Status Management
+
+Provide the following statuses:
+
+1. New Application.
+2. Under Initial Review.
+3. Additional Information Required.
+4. Shortlisted.
+5. Meeting Scheduled.
+6. Approved.
+7. Rejected.
+8. On Hold.
+9. Agreement Pending.
+10. Implementation Started.
+11. Implementation Completed.
+
+Every status change must be saved with:
+- Previous status.
+- New status.
+- Date and time.
+- Administrator.
+- Internal remarks.
+
+## 8.6 Approve and Reject Functionality
+
+Provide clear actions:
+
+- Shortlist.
+- Approve.
+- Reject.
+- Put On Hold.
+- Request More Information.
+
+Before rejection, ask for a rejection reason.
+
+Before approval, verify that:
+- Application has been reviewed.
+- Scope is feasible.
+- Contribution arrangement is discussed.
+- Approval decision is recorded.
+
+Maintain a complete application history.
+
+---
+
+# PART 9: MEETING SCHEDULING AND EMAIL MANAGEMENT
+
+Create an integrated communication system.
+
+## 9.1 Meeting Scheduling
+
+The administrator should be able to schedule meetings directly from the application details page.
+
+Fields:
+
+- Meeting Title.
+- Meeting Date.
+- Start Time.
+- End Time.
+- Meeting Mode (Online / Offline).
+- Meeting Platform.
+- Meeting Link.
+- Venue.
+- Meeting Agenda.
+- Internal Remarks.
+
+Provide an option to send a meeting invitation to the applicant.
+
+Automatically generate an email containing:
+- Organisation Name.
+- Application ID.
+- Meeting Date.
+- Meeting Time.
+- Meeting Mode.
+- Meeting Link or Venue.
+- Meeting Agenda.
+- SEVA contact information.
+
+Provide actions:
+
+- Schedule Meeting.
+- Reschedule Meeting.
+- Cancel Meeting.
+- Send Reminder.
+- Mark Meeting Completed.
+
+Maintain a meeting history.
+
+Where feasible, support Google Calendar integration through a secure OAuth-based integration. If not configured, provide a meeting-link field and downloadable calendar invitation.
+
+## 9.2 Email Communication Module
+
+Integrate transactional email using a secure email provider such as Resend through Supabase Edge Functions.
+
+Create reusable email templates.
+
+Email templates must include:
+
+1. Application Received.
+2. Application Under Review.
+3. Additional Information Required.
+4. Shortlisted.
+5. Meeting Invitation.
+6. Meeting Reminder.
+7. Application Approved.
+8. Application Rejected.
+9. Programme Onboarding.
+10. Implementation Update.
+
+Allow the administrator to:
+
+- Send individual emails.
+- Edit email subject.
+- Edit email content.
+- Preview before sending.
+- Send emails from the application page.
+- View sent email history.
+- See delivery status where supported.
+
+Use the official SEVA identity in email templates.
+
+Sender name: SEVA – Sustainable Ecology & Rural Advancement.
+
+Do not expose email API keys in frontend code.
+
+---
+
+# PART 10: PROGRAMME IMPLEMENTATION TRACKING
+
+After an application is approved, allow the administrator to convert it into an active programme record.
+
+Track:
+
+- Organisation Name.
+- Application ID.
+- Approved Support Areas.
+- Project Start Date.
+- Expected Completion Date.
+- Project Duration.
+- Agreed Programme Cost.
+- SEVA Support Contribution (70%).
+- Organisation Contribution (30%).
+- Assigned Technical Team.
+- Implementation Status.
+- Project Milestones.
+- Training Sessions.
+- Deliverables.
+- Review Meetings.
+- Completion Notes.
+
+Create a project timeline:
+
+1. Needs Assessment.
+2. Requirement Finalisation.
+3. Planning and Design.
+4. Development / Implementation.
+5. Testing.
+6. Staff Training.
+7. Deployment.
+8. Handover.
+9. Follow-up and Evaluation.
+
+Allow administrators to update milestone progress.
+
+Provide a project-wise dashboard and downloadable progress reports.
+
+---
+
+# PART 11: RESOURCES AND KNOWLEDGE CENTRE
+
+Create a knowledge centre to share useful resources for NGOs.
+
+Categories:
+
+- Digital Tools for NGOs.
+- MIS and Data Management.
+- NGO Website Development.
+- Digital Communication.
+- Project Monitoring.
+- Documentation and Reporting.
+- Digital Security.
+- Capacity Building.
+- Technology for Rural Development.
+
+Allow the administrator to publish articles, guides, downloadable resources and videos.
+
+Include SEO-friendly blog pages.
+
+---
+
+# PART 12: CONTACT PAGE
+
+Display:
+
+Sustainable Ecology & Rural Advancement (SEVA)
+
+Address:
+31 B, Jalka, Ralegaon,
+District Yavatmal,
+Maharashtra – 445402, India.
+
+Email: seva.ecology@gmail.com
+
+Phone: +91 8999469974
+
+Website: www.sevavillage.org
+
+Add:
+- Contact form.
+- Google Maps location section.
+- Email link.
+- Phone call link.
+- Social media links (admin configurable).
+
+---
+
+# PART 13: SUPABASE DATABASE ARCHITECTURE
+
+Design a properly structured PostgreSQL database.
+
+Create the following tables:
+
+1. profiles
+2. user_roles
+3. applications
+4. application_documents
+5. application_reviews
+6. application_status_history
+7. meetings
+8. email_logs
+9. programme_projects
+10. project_milestones
+11. project_team_members
+12. case_studies
+13. impact_statistics
+14. resources
+15. contact_messages
+16. audit_logs
+17. organisation_settings
+18. email_templates
+
+Use UUID primary keys wherever appropriate.
+
+For applications, create separate database columns for all 32 application fields.
+
+Use appropriate:
+- Foreign keys.
+- Unique constraints.
+- Indexes.
+- Created_at and updated_at timestamps.
+- Validation constraints.
+- Secure relationships.
+
+Create SQL migration files for all database tables.
+
+## Security Requirements
+
+Enable Row Level Security (RLS) on all sensitive tables.
+
+Rules:
+
+- Public users can submit applications.
+- Public users cannot view other organisations' applications.
+- Only authorised administrators can view application records.
+- Reviewers can access only permitted records.
+- Only authorised users can change application status.
+- Only authorised users can schedule meetings.
+- Only authorised users can access internal review notes.
+- Application documents must be protected.
+- Email logs and audit logs must not be publicly accessible.
+
+Never expose Supabase service_role keys in the browser.
+
+Use secure Edge Functions for privileged operations.
+
+---
+
+# PART 14: ADMIN WEBSITE CONTENT MANAGEMENT
+
+The administrator should be able to manage the public website without editing code.
+
+Provide CMS functionality to:
+
+- Edit homepage content.
+- Edit About SEVA.
+- Update programme details.
+- Add and edit services.
+- Update impact statistics.
+- Add case studies.
+- Upload photographs.
+- Publish articles.
+- Manage contact details.
+- Manage website SEO titles and descriptions.
+
+Keep public website content dynamic and connected to Supabase wherever appropriate.
+
+---
+
+# PART 15: ADDITIONAL IMPORTANT FEATURES
+
+Implement:
+
+1. Admin activity notifications.
+2. New application notification.
+3. Pending review reminders.
+4. Upcoming meeting reminders.
+5. Application document management.
+6. Excel/CSV exports.
+7. Printable application summary.
+8. Application history.
+9. Search and advanced filters.
+10. Secure file storage.
+11. Responsive admin dashboard.
+12. Customisable email templates.
+13. Automatic application ID generation.
+14. Backup and recovery guidance.
+15. Error logging and system monitoring.
+
+All dates should display in Indian Standard Time (IST).
+
+---
+
+# PART 16: SEO AND PERFORMANCE
+
+Implement:
+
+- SEO-friendly page titles.
+- Meta descriptions.
+- Open Graph tags.
+- Structured data where appropriate.
+- Sitemap.
+- Robots.txt.
+- Descriptive image alt text.
+- Optimised images.
+- Lazy loading.
+- Mobile-first design.
+- Fast loading.
+- Accessible navigation.
+- Clean URLs.
+
+The website should be discoverable for relevant search terms such as:
+
+- NGO Digital Empowerment India.
+- Technology Support for NGOs.
+- NGO MIS Development.
+- NGO Website Development.
+- Digital Transformation for NGOs.
+- NGO Data Management.
+- Grassroots Organisation Capacity Building.
+
+---
+
+# PART 17: DEVELOPMENT AND DELIVERY INSTRUCTIONS
+
+This is a complete production-oriented development project.
+
+Do not stop after generating the homepage or a static visual design.
+
+Follow this development sequence:
+
+PHASE 1:
+Create the website architecture, design system, navigation and responsive homepage.
+
+PHASE 2:
+Develop all public pages and programme information.
+
+PHASE 3:
+Build the complete multi-step application form with all 32 fields.
+
+PHASE 4:
+Create the Supabase database schema, migrations and RLS policies.
+
+PHASE 5:
+Implement secure authentication and role-based admin access.
+
+PHASE 6:
+Build the complete admin dashboard and application review system.
+
+PHASE 7:
+Implement priority scoring, status management and application workflow.
+
+PHASE 8:
+Implement meeting scheduling and email communication.
+
+PHASE 9:
+Develop programme implementation tracking and CMS.
+
+PHASE 10:
+Test all features, security policies, forms, database operations and responsive layouts.
+
+## Critical Development Rules
+
+1. Do not create dummy functionality for buttons.
+2. Every button must perform its intended action.
+3. Every form must save data correctly.
+4. Do not use localStorage as a substitute for the main database.
+5. Do not hardcode application records.
+6. Do not expose secret API keys.
+7. Use reusable components.
+8. Maintain a clean project structure.
+9. Include proper loading, success and error states.
+10. Use realistic sample data only for development previews.
+11. Never invent SEVA's impact statistics or testimonials.
+12. Make the application easy to maintain and extend.
+13. Provide complete SQL scripts and deployment instructions.
+14. Do not claim that a feature is functional until its backend integration has been implemented and tested.
+
+## Final Expected Deliverables
+
+Provide:
+
+- Complete React + TypeScript frontend.
+- Responsive public website.
+- Complete application portal.
+- Functional admin dashboard.
+- Supabase database SQL migrations.
+- RLS security policies.
+- Authentication implementation.
+- Supabase Edge Functions.
+- Email integration instructions.
+- Meeting management functionality.
+- Programme tracking system.
+- Admin content management system.
+- Environment variable template.
+- Setup and deployment documentation.
+
+Start by creating the complete architecture and design system. Then develop the application module by module while maintaining consistent design, functionality and database integration.
+
+The final result must communicate SEVA's commitment to empowering grassroots organisations through practical, accessible and sustainable digital transformation.
+
+**Core message of the entire website:**
+
+"Stronger Organisations. Smarter Systems. Greater Social Impact."
+
+SEVA – Sustainable Ecology & Rural Advancement.

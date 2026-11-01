@@ -8,7 +8,7 @@ export const SUPABASE_URL =
   import.meta.env.VITE_SUPABASE_URL || 'https://eusqtayzaojdgucpvomg.supabase.co';
 
 export const SUPABASE_KEY =
-  import.meta.env.VITE_SUPABASE_ANON_KEY || 'sb_secret_R8ADt629su4_dKvMJGaLXA_C7B4QeeE';
+  import.meta.env.VITE_SUPABASE_ANON_KEY || 'eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6ImV1c3F0YXl6YW9qZGd1Y3B2b21nIiwicm9sZSI6ImFub24iLCJpYXQiOjE3OTM0NTQ4NzgsImV4cCI6MjEwOTAzMDg3OH0.blkOBTvAuPUo58j0bMe_FUxRGH6NSsZ6h53fk7C6mUM';
 
 // Initialize Supabase Client (Standard Client with persistSession)
 export const supabase = createClient(SUPABASE_URL, SUPABASE_KEY, {

@@ -21,10 +21,10 @@ jobs:
         uses: actions/setup-node@v4
         with:
           node-version: 20
-          # cache: 'npm'  <-- ही ओळ काढून टाकली आहे जेणेकरून lock फाईलची समस्या येणार नाही
+          # cache: 'npm'  <-- lock फाईलची समस्या टाळण्यासाठी काढले आहे
 
       - name: Install dependencies
-        run: npm install   # <-- npm ci ऐवजी npm install केले आहे
+        run: npm install --legacy-peer-deps   # <-- व्हर्जन कॉन्फ्लिक्ट टाळण्यासाठी हे जोडले आहे
 
       - name: Build project
         run: npm run build

@@ -7,8 +7,8 @@ export const SUPABASE_PROJECT_ID =
 export const SUPABASE_URL =
   import.meta.env.VITE_SUPABASE_URL || 'https://eusqtayzaojdgucpvomg.supabase.co';
 
-export const SUPABASE_KEY =
- export const SUPABASE_KEY = import.meta.env.VITE_SUPABASE_KEY;
+// 👇 येथे तुमचा नवीन कोड टाकला आहे (जुना डुप्लिकेट कोड काढून टाकला आहे)
+export const SUPABASE_KEY = (import.meta.env.VITE_SUPABASE_KEY as string) || "";
 
 // Initialize Supabase Client (Standard Client with persistSession)
 export const supabase = createClient(SUPABASE_URL, SUPABASE_KEY, {

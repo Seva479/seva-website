@@ -5,6 +5,9 @@ import {defineConfig} from 'vite';
 
 export default defineConfig(() => {
   return {
+    // 👇 ही ओळ GitHub Pages साठी अत्यंत महत्त्वाची आहे
+    base: '/', 
+    
     plugins: [react(), tailwindcss()],
     resolve: {
       alias: {
